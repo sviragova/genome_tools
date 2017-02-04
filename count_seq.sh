@@ -1,7 +1,7 @@
 #!/bin/bash
-#USAGE: bash count_seq.sh
+#USAGE: bash count_seq.sh FASTA
 
-grep -c ">" ~/Desktop/data-shell/Desktop/data/genome.fa
+grep -c ">" #1
 
 #comment
 
